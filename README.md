@@ -1,4 +1,4 @@
-# CodSoft-Task-2
+# SIMPLE_CALCULATOR
 
 **COMPANY**: CODSOFT
 
